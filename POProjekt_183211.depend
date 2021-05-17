@@ -1,0 +1,349 @@
+# depslib dependency file v1.0
+1589826154 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	"Swiat.h"
+	"Zwierzeta/Antylopa.h"
+	"Zwierzeta/Wilk.h"
+	"Zwierzeta/Zolw.h"
+	"Zwierzeta/Owca.h"
+	"Zwierzeta/Lis.h"
+
+1589826595 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\roslina.cpp
+	"Roslina.h"
+	"Organizm.h"
+	<time.h>
+	<cstdlib>
+	<iostream>
+
+1589826611 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\zwierze.cpp
+	"Zwierze.h"
+	<iostream>
+
+1589821866 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\roslina.h
+	"Organizm.h"
+
+1589821816 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\organizm.h
+	<iostream>
+	"Swiat.h"
+
+1589821838 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\zwierze.h
+	"Organizm.h"
+
+1589826245 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\swiat.cpp
+	<cstdlib>
+	<time.h>
+	<iostream>
+	<fstream>
+	"Swiat.h"
+	"Zwierzeta/Antylopa.h"
+	"Zwierzeta/Lis.h"
+	"Zwierzeta/Owca.h"
+	"Zwierzeta/Wilk.h"
+	"Zwierzeta/Zolw.h"
+	"Zwierzeta/Czlowiek.h"
+	"Rosliny/BarszczSosnowskiego.h"
+	"Rosliny/Guarana.h"
+	"Rosliny/Mlecz.h"
+	"Rosliny/Trawa.h"
+	"Rosliny/WilczeJagody.h"
+
+1589737031 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\swiat.h
+	"Organizm.h"
+	"ListaOrganizmow.h"
+	"Interfejs.h"
+
+1588882792 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\trawa.cpp
+
+1588682743 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\trawa.h
+	"Roslina.h"
+
+1588883127 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\punkt.cpp
+	"Punkt.h"
+
+1588883134 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\punkt.h
+
+1589737637 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\organizm.cpp
+	"Organizm.h"
+
+1589737550 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\rosliny\trawa.cpp
+	"Rosliny/Trawa.h"
+
+1589735250 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\zwierzeta\czlowiek.cpp
+	"Zwierzeta/Czlowiek.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1589735186 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\zwierzeta\wilk.cpp
+	"Zwierzeta/Wilk.h"
+
+1589028799 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\listaorganizmow.cpp
+	"ListaOrganizmow.h"
+	<iostream>
+
+1589028824 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\listaorganizmow.h
+	"Organizm.h"
+
+1589735680 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\listaorganizmow.h
+	"Organizm.h"
+
+1589735719 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\listaorganizmow.cpp
+	"ListaOrganizmow.h"
+	<iostream>
+
+1589737493 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\rosliny\barszczsosnowskiego.cpp
+	"Rosliny/BarszczSosnowskiego.h"
+	"Organizm.h"
+	<iostream>
+
+1589737550 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\rosliny\guarana.cpp
+	"Rosliny/Guarana.h"
+	<iostream>
+
+1589737550 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\rosliny\mlecz.cpp
+	"Rosliny/Mlecz.h"
+
+1589737550 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\rosliny\wilczejagody.cpp
+	"Rosliny/WilczeJagody.h"
+	<iostream>
+
+1589812410 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\zwierzeta\antylopa.cpp
+	"Zwierzeta/Antylopa.h"
+	<iostream>
+	<cstdlib>
+
+1589735206 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\zwierzeta\lis.cpp
+	"Zwierzeta/Lis.h"
+	<time.h>
+	<cstdlib>
+	<iostream>
+
+1589735209 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\zwierzeta\owca.cpp
+	"Zwierzeta/Owca.h"
+
+1589735177 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\zwierzeta\zolw.cpp
+	"Zwierzeta/Zolw.h"
+	<time.h>
+	<cstdlib>
+	<iostream>
+
+1589735220 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\zwierzeta\wilk.h
+	<iostream>
+	"Zwierze.h"
+
+1589715567 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\zwierzeta\antylopa.h
+	<iostream>
+	"Zwierze.h"
+
+1589735092 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\zwierzeta\lis.h
+	<iostream>
+	"Zwierze.h"
+
+1589735109 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\zwierzeta\owca.h
+	<iostream>
+	"Zwierze.h"
+
+1589735232 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\zwierzeta\zolw.h
+	"Zwierze.h"
+	<iostream>
+
+1589735073 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\zwierzeta\czlowiek.h
+	<iostream>
+	"Zwierze.h"
+
+1589734956 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\rosliny\barszczsosnowskiego.h
+	"Roslina.h"
+
+1589736286 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\rosliny\guarana.h
+	"Roslina.h"
+
+1589734918 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\rosliny\mlecz.h
+	"Roslina.h"
+
+1589734906 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\rosliny\trawa.h
+	"Roslina.h"
+
+1589734887 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\rosliny\wilczejagody.h
+	"Roslina.h"
+
+1589715685 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\src\interfejs.cpp
+	"Interfejs.h"
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<iostream>
+
+1589715624 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\include\interfejs.h
+	<iostream>
+
+1589826154 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	"Swiat.h"
+	"Zwierzeta/Antylopa.h"
+	"Zwierzeta/Wilk.h"
+	"Zwierzeta/Zolw.h"
+	"Zwierzeta/Owca.h"
+	"Zwierzeta/Lis.h"
+
+1589737031 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\swiat.h
+	"Organizm.h"
+	"ListaOrganizmow.h"
+	"Interfejs.h"
+
+1589821816 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\organizm.h
+	<iostream>
+	"Swiat.h"
+
+1589735680 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\listaorganizmow.h
+	"Organizm.h"
+
+1589715624 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\interfejs.h
+	<iostream>
+
+1589715567 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\zwierzeta\antylopa.h
+	<iostream>
+	"Zwierze.h"
+
+1589821838 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\zwierze.h
+	"Organizm.h"
+
+1589735220 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\zwierzeta\wilk.h
+	<iostream>
+	"Zwierze.h"
+
+1589735232 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\zwierzeta\zolw.h
+	"Zwierze.h"
+	<iostream>
+
+1589735109 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\zwierzeta\owca.h
+	<iostream>
+	"Zwierze.h"
+
+1589735092 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\zwierzeta\lis.h
+	<iostream>
+	"Zwierze.h"
+
+1589715685 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\interfejs.cpp
+	"Interfejs.h"
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<iostream>
+
+1589735719 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\listaorganizmow.cpp
+	"ListaOrganizmow.h"
+	<iostream>
+
+1589737637 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\organizm.cpp
+	"Organizm.h"
+
+1588883127 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\punkt.cpp
+	"Punkt.h"
+
+1588883134 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\punkt.h
+
+1589826595 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\roslina.cpp
+	"Roslina.h"
+	"Organizm.h"
+	<time.h>
+	<cstdlib>
+	<iostream>
+
+1589821866 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\roslina.h
+	"Organizm.h"
+
+1589737493 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\rosliny\barszczsosnowskiego.cpp
+	"Rosliny/BarszczSosnowskiego.h"
+	"Organizm.h"
+	<iostream>
+
+1589734956 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\rosliny\barszczsosnowskiego.h
+	"Roslina.h"
+
+1589737550 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\rosliny\guarana.cpp
+	"Rosliny/Guarana.h"
+	<iostream>
+
+1589736286 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\rosliny\guarana.h
+	"Roslina.h"
+
+1589737550 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\rosliny\mlecz.cpp
+	"Rosliny/Mlecz.h"
+
+1589734918 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\rosliny\mlecz.h
+	"Roslina.h"
+
+1589737550 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\rosliny\trawa.cpp
+	"Rosliny/Trawa.h"
+
+1589734906 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\rosliny\trawa.h
+	"Roslina.h"
+
+1589737550 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\rosliny\wilczejagody.cpp
+	"Rosliny/WilczeJagody.h"
+	<iostream>
+
+1589734887 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\rosliny\wilczejagody.h
+	"Roslina.h"
+
+1589826245 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\swiat.cpp
+	<cstdlib>
+	<time.h>
+	<iostream>
+	<fstream>
+	"Swiat.h"
+	"Zwierzeta/Antylopa.h"
+	"Zwierzeta/Lis.h"
+	"Zwierzeta/Owca.h"
+	"Zwierzeta/Wilk.h"
+	"Zwierzeta/Zolw.h"
+	"Zwierzeta/Czlowiek.h"
+	"Rosliny/BarszczSosnowskiego.h"
+	"Rosliny/Guarana.h"
+	"Rosliny/Mlecz.h"
+	"Rosliny/Trawa.h"
+	"Rosliny/WilczeJagody.h"
+
+1589735073 c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\include\zwierzeta\czlowiek.h
+	<iostream>
+	"Zwierze.h"
+
+1589826611 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\zwierze.cpp
+	"Zwierze.h"
+	<iostream>
+
+1589812410 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\zwierzeta\antylopa.cpp
+	"Zwierzeta/Antylopa.h"
+	<iostream>
+	<cstdlib>
+
+1589735250 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\zwierzeta\czlowiek.cpp
+	"Zwierzeta/Czlowiek.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1589735206 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\zwierzeta\lis.cpp
+	"Zwierzeta/Lis.h"
+	<time.h>
+	<cstdlib>
+	<iostream>
+
+1589735209 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\zwierzeta\owca.cpp
+	"Zwierzeta/Owca.h"
+
+1589735186 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\zwierzeta\wilk.cpp
+	"Zwierzeta/Wilk.h"
+
+1589735177 source:c:\users\mwinc\onedrive\pulpit\poprojekt_183211\projekt codeblocks\src\zwierzeta\zolw.cpp
+	"Zwierzeta/Zolw.h"
+	<time.h>
+	<cstdlib>
+	<iostream>
+

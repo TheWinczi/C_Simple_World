@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="POProjekt_183211" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Script file="lib_finder.script" />
+			<Target title="Debug">
+				<Option output="bin/Debug/POProjekt_183211" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/POProjekt_183211" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="include" />
+		</Compiler>
+		<Unit filename="include/Interfejs.h" />
+		<Unit filename="include/ListaOrganizmow.h" />
+		<Unit filename="include/Organizm.h" />
+		<Unit filename="include/Punkt.h" />
+		<Unit filename="include/Roslina.h" />
+		<Unit filename="include/Rosliny/BarszczSosnowskiego.h" />
+		<Unit filename="include/Rosliny/Guarana.h" />
+		<Unit filename="include/Rosliny/Mlecz.h" />
+		<Unit filename="include/Rosliny/Trawa.h" />
+		<Unit filename="include/Rosliny/WilczeJagody.h" />
+		<Unit filename="include/Swiat.h" />
+		<Unit filename="include/Zwierze.h" />
+		<Unit filename="include/Zwierzeta/Antylopa.h" />
+		<Unit filename="include/Zwierzeta/Czlowiek.h" />
+		<Unit filename="include/Zwierzeta/Lis.h" />
+		<Unit filename="include/Zwierzeta/Owca.h" />
+		<Unit filename="include/Zwierzeta/Wilk.h" />
+		<Unit filename="include/Zwierzeta/Zolw.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Interfejs.cpp" />
+		<Unit filename="src/ListaOrganizmow.cpp" />
+		<Unit filename="src/Organizm.cpp" />
+		<Unit filename="src/Punkt.cpp" />
+		<Unit filename="src/Roslina.cpp" />
+		<Unit filename="src/Rosliny/BarszczSosnowskiego.cpp" />
+		<Unit filename="src/Rosliny/Guarana.cpp" />
+		<Unit filename="src/Rosliny/Mlecz.cpp" />
+		<Unit filename="src/Rosliny/Trawa.cpp" />
+		<Unit filename="src/Rosliny/WilczeJagody.cpp" />
+		<Unit filename="src/Swiat.cpp" />
+		<Unit filename="src/Zwierze.cpp" />
+		<Unit filename="src/Zwierzeta/Antylopa.cpp" />
+		<Unit filename="src/Zwierzeta/Czlowiek.cpp" />
+		<Unit filename="src/Zwierzeta/Lis.cpp" />
+		<Unit filename="src/Zwierzeta/Owca.cpp" />
+		<Unit filename="src/Zwierzeta/Wilk.cpp" />
+		<Unit filename="src/Zwierzeta/Zolw.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,29 @@
+20 20
+5 21
+lis 7 3 10 11
+wilk 5 9 18 5
+antylopa 4 4 5 18
+owca 4 4 1 12
+zolw 1 2 5 2
+barszczsosnowskiego 0 10 3 15
+guarana 0 0 15 4
+mlecz 0 0 14 3
+trawa 0 0 14 7
+wilczejagody 0 10 19 4
+barszczsosnowskiego 0 10 3 4
+guarana 0 0 15 5
+mlecz 0 0 12 19
+trawa 0 0 11 3
+wilczejagody 0 10 13 13
+mlecz 0 0 11 18
+mlecz 0 0 15 4
+mlecz 0 0 13 18
+trawa 0 0 12 2
+mlecz 0 0 13 20
+mlecz 0 0 12 17
+guarana 0 0 14 4
+mlecz 0 0 14 3
+mlecz 0 0 10 19
+mlecz 0 0 11 18
+mlecz 0 0 15 2
+czlowiek 4 5 3 9
